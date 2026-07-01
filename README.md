@@ -105,10 +105,10 @@ The impact of feature engineering was analyzed across all models.
 
 | Model                        | Evaluation Metric |
 | ---------------------------- | ----------------- |
-| Logistic Regression          | Accuracy          |
-| Logistic Regression (Scaled) | Accuracy          |
-| Decision Tree                | Accuracy          |
-| Random Forest                | Accuracy          |
+| Logistic Regression          | 0.818501          |
+| Logistic Regression (Scaled) | 0.908665          |
+| Decision Tree                | 0.981265          |
+| Random Forest                | 0.983607          |
 
 ---
 
